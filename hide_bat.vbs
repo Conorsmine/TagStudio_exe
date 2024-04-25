@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "start_win.bat", 0, True
