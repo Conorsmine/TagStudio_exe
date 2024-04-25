@@ -29,7 +29,6 @@
 *.dylib
 
 # Executables
-*.exe
 *.out
 *.app
 *.i*86
@@ -41,6 +40,9 @@
 *.su
 *.idb
 *.pdb
+
+# Compile targets
+cmake-build-debug/
 
 # Kernel Module Compile Results
 *.mod*
